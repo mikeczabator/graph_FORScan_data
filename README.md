@@ -5,7 +5,7 @@ Also charts occurances of events (true/false) or their value when applicable.
 
 tested in Ford diesel, so this is heavily built around injectors and oil pressure.  RPM on seconary axis may need to be changed to whatever you vehicle is tagged as.
 
-##$ how to
+### how to
 collect data via ODBCII on FORScan
 change the filename and path in the notebook
 run the two charting scripts
